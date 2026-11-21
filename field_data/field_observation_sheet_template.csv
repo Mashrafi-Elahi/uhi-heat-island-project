@@ -1,0 +1,1 @@
+location_id,date,surveyor_name,latitude,longitude,air_temp_c,sensor_height_cm,surface_type,vegetation_cover,traffic_density,sky_condition,wind,shade_present,time_of_day,timestamp,zone_type,notes

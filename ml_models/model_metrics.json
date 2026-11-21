@@ -1,0 +1,30 @@
+{
+  "models": {
+    "linear_regression": {
+      "rmse": 1.724,
+      "mae": 1.288,
+      "r2": 0.641,
+      "cv_r2_mean": 0.209
+    },
+    "random_forest": {
+      "rmse": 1.363,
+      "mae": 1.025,
+      "r2": 0.775,
+      "cv_r2_mean": -0.352
+    }
+  },
+  "feature_columns": [
+    "latitude",
+    "longitude",
+    "ndvi",
+    "lst_c",
+    "built_up_density",
+    "surface_code",
+    "vegetation_code",
+    "traffic_code",
+    "time_code"
+  ],
+  "target": "air_temp_c",
+  "selected_model": "random_forest",
+  "n_samples": 10
+}

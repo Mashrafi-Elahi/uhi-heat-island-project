@@ -1,0 +1,11 @@
+location_id,location_name,latitude,longitude,air_temp_c,surface_type,vegetation_cover,traffic_density,time_of_day,timestamp,zone_type,notes
+L01,Commercial Plaza A,23.7937,90.4066,34.2,concrete,low,high,afternoon,2026-06-01T14:30:00,commercial,Busy intersection
+L02,Residential Block B,23.8021,90.4251,31.8,asphalt,medium,medium,afternoon,2026-06-01T14:45:00,residential,Shaded street partial
+L03,Ramna Park,23.8035,90.3992,28.5,grass,high,low,afternoon,2026-06-01T15:00:00,park,Tree canopy
+L04,Industrial Zone C,23.7850,90.4380,35.1,concrete,low,high,afternoon,2026-06-01T15:15:00,industrial,Factory vicinity
+L05,Hatirjheel Lake,23.8150,90.4200,29.1,water,medium,low,afternoon,2026-06-01T15:30:00,water_body,Lakeside breeze
+L06,Morning Baseline Park,23.8035,90.3992,26.8,grass,high,low,morning,2026-06-02T08:00:00,park,Morning survey
+L07,Morning Commercial,23.7937,90.4066,30.1,concrete,low,medium,morning,2026-06-02T08:15:00,commercial,Morning survey
+L08,Evening Residential,23.8021,90.4251,32.4,asphalt,medium,medium,evening,2026-06-02T18:30:00,residential,Heat retention
+L09,Evening Industrial,23.7850,90.4380,33.6,concrete,low,high,evening,2026-06-02T18:45:00,industrial,Evening survey
+L10,University Campus,23.8180,90.4350,30.5,mixed,medium,medium,afternoon,2026-06-01T16:00:00,residential,Campus open area

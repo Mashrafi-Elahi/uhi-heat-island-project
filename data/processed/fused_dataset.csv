@@ -1,0 +1,11 @@
+location_id,location_name,latitude,longitude,air_temp_c,surface_type,vegetation_cover,traffic_density,time_of_day,timestamp,zone_type,notes,lst_c,ndvi,built_up_density,land_cover,lst_air_delta,surface_code,vegetation_code,traffic_code,time_code
+L01,Commercial Plaza A,23.7937,90.4066,34.2,concrete,low,high,afternoon,2026-06-01T14:30:00,commercial,Busy intersection,42.5,0.12,0.92,urban_dense,8.299999999999997,1,1,3,2
+L02,Residential Block B,23.8021,90.4251,31.8,asphalt,medium,medium,afternoon,2026-06-01T14:45:00,residential,Shaded street partial,39.8,0.28,0.65,residential,7.9999999999999964,2,2,2,2
+L03,Ramna Park,23.8035,90.3992,28.5,grass,high,low,afternoon,2026-06-01T15:00:00,park,Tree canopy,34.2,0.72,0.15,park,5.700000000000003,3,3,1,2
+L04,Industrial Zone C,23.785,90.438,35.1,concrete,low,high,afternoon,2026-06-01T15:15:00,industrial,Factory vicinity,44.1,0.08,0.88,industrial,9.0,1,1,3,2
+L05,Hatirjheel Lake,23.815,90.42,29.1,water,medium,low,afternoon,2026-06-01T15:30:00,water_body,Lakeside breeze,33.5,0.45,0.2,water,4.399999999999999,4,2,1,2
+L06,Morning Baseline Park,23.8035,90.3992,26.8,grass,high,low,morning,2026-06-02T08:00:00,park,Morning survey,32.8,0.7,0.16,park,5.9999999999999964,3,3,1,1
+L07,Morning Commercial,23.7937,90.4066,30.1,concrete,low,medium,morning,2026-06-02T08:15:00,commercial,Morning survey,38.2,0.14,0.9,urban_dense,8.100000000000001,1,1,2,1
+L08,Evening Residential,23.8021,90.4251,32.4,asphalt,medium,medium,evening,2026-06-02T18:30:00,residential,Heat retention,40.5,0.26,0.68,residential,8.100000000000001,2,2,2,3
+L09,Evening Industrial,23.785,90.438,33.6,concrete,low,high,evening,2026-06-02T18:45:00,industrial,Evening survey,43.0,0.09,0.87,industrial,9.399999999999999,1,1,3,3
+L10,University Campus,23.818,90.435,30.5,mixed,medium,medium,afternoon,2026-06-01T16:00:00,residential,Campus open area,37.5,0.35,0.45,campus,7.0,5,2,2,2
